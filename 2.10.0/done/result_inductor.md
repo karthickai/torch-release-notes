@@ -173,8 +173,5 @@ The categories below are as follows:
 - Only generate compile-time auto-tuning block in the main graph ([#167131](https://github.com/pytorch/pytorch/pull/167131))
 - Allow add_persistent_r_block to scale up rblock up to a limit ([#162296](https://github.com/pytorch/pytorch/pull/162296))
 - Use reduction hint for aggressive rblock ([#163371](https://github.com/pytorch/pytorch/pull/163371))
-- Clean up codegen hooks to handle views ([#169906](https://github.com/pytorch/pytorch/pull/169906))
-- Add tlparse artifact for `autotune_at_compile_time`. ([#164984](https://github.com/pytorch/pytorch/pull/164984))
-- Add note for supported blockwise scaling strategy pairs for FP8. ([#165450](https://github.com/pytorch/pytorch/pull/165450))
 
 ### security
