@@ -24,6 +24,7 @@
 - Distributed Autotuning ([#163369](https://github.com/pytorch/pytorch/pull/163369))
 - Add GroupName NewType ([#167552](https://github.com/pytorch/pytorch/pull/167552))
 - Fixes bug with tolist calls to GradTrackingTensors ([#165184](https://github.com/pytorch/pytorch/pull/165184))
+- add the option to disable functionalization in AOTDispatcher ([#164577](https://github.com/pytorch/pytorch/pull/164577))
 - [effects] Add register_effectful_op ([#163284](https://github.com/pytorch/pytorch/pull/163284))
 - [cutlass-4][take 2] upgrade to cutlass 4.2.1 ([#164159](https://github.com/pytorch/pytorch/pull/164159))
 - [2/N] Use context managers ([#167404](https://github.com/pytorch/pytorch/pull/167404))
